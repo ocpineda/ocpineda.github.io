@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{146:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"cloud-security","name":"cloud security","count":3,"permalink":"/blog/tags/cloud-security"}')}}]);

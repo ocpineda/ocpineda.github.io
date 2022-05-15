@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{135:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"sans-summit-2022","name":"sans summit 2022","count":1,"permalink":"/blog/tags/sans-summit-2022"}')}}]);

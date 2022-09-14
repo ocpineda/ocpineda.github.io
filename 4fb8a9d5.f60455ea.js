@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{152:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"bullet-journals","name":"bullet journals","count":1,"permalink":"/blog/tags/bullet-journals"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[47],{180:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"cis-benchmark","name":"cis benchmark","count":1,"permalink":"/blog/tags/cis-benchmark"}')}}]);

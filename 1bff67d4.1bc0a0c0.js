@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{144:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"nict-cybersecurity-framework","name":"nict cybersecurity framework","count":1,"permalink":"/blog/tags/nict-cybersecurity-framework"}')}}]);
